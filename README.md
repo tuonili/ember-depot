@@ -1,5 +1,9 @@
 # Ember Depot
 
+[![make.fun · threejs-fps-02](https://make.fun/badge/threejs-fps-02.svg)](https://make.fun/bounty/threejs-fps-02?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02)
+[![rank](https://make.fun/badge/threejs-fps-02/tuonili/ember-depot/rank.svg)](https://make.fun/bounty/threejs-fps-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02)
+[![reward](https://make.fun/badge/threejs-fps-02/tuonili/ember-depot/reward.svg)](https://make.fun/bounty/threejs-fps-02?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02)
+
 A round-based tactical first-person shooter that runs in the browser on three.js 0.187.0, entered in
 [make.fun's threejs-fps-02 bounty](https://make.fun/bounty/threejs-fps-02).
 
